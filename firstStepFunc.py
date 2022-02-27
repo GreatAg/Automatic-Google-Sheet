@@ -78,13 +78,13 @@ def add_row(info,start_row):
         j += 1
 
 
-spread_id_record = '1GGHViuBLIAFHQMdlszVJqgwx4h5np6tPlhAWBVhwJtk'
+spread_id_record = ''
 sheet_title_record = 'LEADS'
 
-spread_id_mosahebe = '1fxLjD_SYvZ2_rYtMNbe31rAib0qNmB2H4BiFZncgB5Q'
+spread_id_mosahebe = ''
 sheet_title_mosahebe = 'SETs'
 
-spread_id_foroosh = '1csrTxRZaCKbfE37U5jqIzJHn5AquqlXYkM-YRFta1xM'
+spread_id_foroosh = ''
 sheet_title_foroosh = 'DONES'
 
 if __name__ == '__main__':
