@@ -4,10 +4,10 @@ from psycopg2._psycopg import connection, cursor
 
 def get_cursor():
     db_info = {
-        'host': '130.185.121.250',
-        'database': 'irvani',
-        'user': 'postgres',
-        'password': 'testp4ss'
+        'host': '',
+        'database': '',
+        'user': '',
+        'password': ''
     }
 
     conn: connection = psycopg2.connect(db_info)
